@@ -21,7 +21,7 @@
 
 ---
 
-### 📲 Connect with me
+### Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jos%C3%A9-antonio-pinto-aguilar-b884b92a2">
@@ -47,7 +47,7 @@
   <tr>
     <td>
 
-### 🚀 About Me
+### About Me
 
 ```yaml
 name: José Antonio Pinto Aguilar
@@ -70,12 +70,12 @@ achievements:
   - Government Project Security Engineer
 ```
 
-### 🔥 Current Projects
+### Current Projects
 
-- 🎮 **Vixel** - Decentralized gaming platform on Vara Blockchain
-- 📊 **GEOVA** - IoT measurement system for civil engineering
-- 🔐 **VaultDoc** - Secure document management with pentesting
-- 🍔 **Frimeet** - Recommendation platform with ML
+-  **Vixel** - Decentralized gaming platform on Vara Blockchain
+-  **GEOVA** - IoT measurement system for civil engineering
+-  **VaultDoc** - Secure document management with pentesting
+-  **Frimeet** - Recommendation platform with ML
 
 </td>
 <td align="center">
@@ -90,9 +90,9 @@ achievements:
 
 <img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVybnp3ZzJ0N3Rsc3ppcXF4b3Q2dnpkZHhicjBqNDZoazZtaHltZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
-### ⚡ Tech Stack
+### Tech Stack
 
-#### 💻 Backend
+#### Backend
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -102,7 +102,7 @@ achievements:
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 
-#### 🔧 Frameworks & Tools
+#### Frameworks & Tools
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
@@ -115,7 +115,7 @@ achievements:
 
 ---
 
-### 🗄️ Databases & ORMs
+### Databases & ORMs
 
 <p align="center">
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
@@ -134,7 +134,7 @@ achievements:
 
 ---
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 
 <p align="center">
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
@@ -149,7 +149,7 @@ achievements:
 
 ---
 
-### 🔐 Security & Hacking Tools
+### Security & Hacking Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-OWASP-000000?logo=owasp&logoColor=white&style=flat-square" />
@@ -171,7 +171,7 @@ achievements:
 
 ---
 
-### ⛓️ Blockchain & Web3
+### Blockchain & Web3
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Vara_Network-00C853?logo=blockchain.com&logoColor=white&style=flat-square" />
@@ -182,7 +182,7 @@ achievements:
 
 ---
 
-### 🔧 Systems & Embedded
+### Systems & Embedded
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberry-pi&logoColor=white&style=flat-square" />
@@ -194,7 +194,7 @@ achievements:
 
 ---
 
-### 🏗️ Architectures & Patterns
+### Architectures & Patterns
 
 <p align="center">
   <b>🧼 Clean Architecture</b> • <b>🧱 Hexagonal Architecture</b> • <b>⚡ Event-Driven</b> • <b>📐 SOLID</b> • <b>🎯 Design Patterns</b> • <b>🔄 Concurrency Patterns</b>
@@ -206,7 +206,7 @@ achievements:
 
 <div align="center">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JosephAntony37900&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CB698&icon_color=1CB698&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JosephAntony37900&theme=radical&hide_border=true&background=0D1117&ring=1CB698&fire=1CB698&currStreakLabel=1CB698" />
@@ -226,7 +226,7 @@ achievements:
 
 ---
 
-### 🏆 Achievements & Certifications
+### Achievements & Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/🥇_1st_Place-National_Hackathon_Chiapas-FFD700?style=for-the-badge" />
@@ -255,11 +255,11 @@ achievements:
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <div align="center">
 
-| 🎮 Project | 📝 Description | 💻 Tech Stack | 🏆 Achievement |
+| Project | Description | Tech Stack | Achievement |
 |-----------|---------------|---------------|----------------|
 | **Vixel** | Decentralized gaming, tournaments & streaming platform | Vara Blockchain, Web3, Go, React | 🥇 1st National / 🥈 2nd International |
 | **GEOVA** | IoT measurement system for civil engineering | Python, Raspberry Pi, ESP32, FastAPI | Lead Developer |
@@ -271,7 +271,7 @@ achievements:
 
 ---
 
-### 💼 Professional Experience Timeline
+### Professional Experience Timeline
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
@@ -296,7 +296,7 @@ timeline
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
   
@@ -312,7 +312,7 @@ timeline
 
 <div align="center">
 
-### 💡 Random Dev Quote
+### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
